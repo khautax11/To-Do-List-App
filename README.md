@@ -9,7 +9,7 @@ Features
 - Prevents duplicate tasks
 
 Screenshot
-![App Screenshot](./screenshot.png)
+![App Screenshot](./screenshot.jpg)
 
 How to Run
 1. Clone the repository
